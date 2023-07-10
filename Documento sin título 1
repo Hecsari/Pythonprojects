@@ -1,0 +1,34 @@
+ k = 0
+    if k <=3 :
+       n = []  
+       n.append(j - m for j in Y[k])
+       print n          
+       k = k+1
+
+   # def normalizationflux(j):
+          #  m = []
+            #n = []
+          #  m.append(mean(j))
+            #n.append([j - m for j in a[i] for i in Y) 
+          #  return m
+
+#nf = normalizationflux(j)
+#print nf 
+
+
+
+i = 0
+while i<= 3:
+      D = []
+      D.append(Y[i])
+      i = i + 1
+      print D
+#     n = []
+#     n.append(k - m for j in D)
+#     i = i + 1
+#    print n
+
+
+
+
+
